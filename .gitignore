@@ -71,3 +71,12 @@ test/defer_strile_writing
 test/*.log
 test/*.trs
 test/o-*
+
+*.lnk
+*.url
+.vs
+Debug
+Release
+Win32
+x64
+build_*
